@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋
+만들고 싶은 것을 만들어요
 
-<!--
-**yunsseong/yunsseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 서비스
+|**이름**|**설명**|**운영**|
+|---|---|---|
+|**VEAR**|운동 모임의 출석과 벌금, 순위 기능을 제공하고 있습니다.|2025.10.1~|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 기술 스택
+|**분류**|**기술**|
+|:---|:---|
+|**Backend**|`Spring` `FastAPI`|
+|**Frontend & Desktop**|`React` `Electron`|
+|**Database & Cache**|`MySQL` `PostgreSQL` `Redis`|
+|**Infra & Cloud**|`Docker` `Docker Compose` `Oracle Cloud`|
+|**Network & Security**|`Nginx` `Cloudflare Access`|
+|**Virtualization**|`XCP-ng` `ESXi` `Proxmox`|
+|**CI/CD**|`Github Actions`|
