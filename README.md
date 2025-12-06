@@ -13,6 +13,7 @@
 |:---|:---|
 |**Backend**|`Spring` `FastAPI` `NestJs`|
 |**Frontend & Desktop**|`React` `Next.js` `Electron`|
+|**Mobile**|`React Native` `Flutter`|
 |**Database & Cache**|`MySQL` `PostgreSQL` `Redis`|
 |**Infra & Cloud**|`Docker` `Docker Compose` `Oracle Cloud`|
 |**Network & Security**|`Nginx` `Cloudflare Access`|
